@@ -1,0 +1,5 @@
+The Process starts by Making the cells to run from strating 
+The 3rd Cell to run to paste the URL 
+Then continue running rest and need to pause at 6th CELL to give   fetcher some time to load then information from the uyrl and homepage
+Then continuing it after all cell upto 10 then requires a while to load the fetched info to create the JSON files and create the info available as 
+The Profile pages fetched info:---/about, /company, /products, /solutions, /industries, /pricing, /contact, /careers.
