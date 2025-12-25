@@ -1,0 +1,49 @@
+{
+  "identity": {
+    "name": "Andhra Pradesh Public Service Commission",
+    "url": "https://portal-psc.ap.gov.in/",
+    "tagline": null
+  },
+  "business": {
+    "description": [],
+    "offerings": []
+  },
+  "contact": {
+    "emails": [],
+    "phones": [
+      "2025) -",
+      "1953",
+      "16)\n\r\n                5",
+      "320 (1))\n2",
+      "0866-2527820\r\n                \r\n                0866-2527821",
+      "320 (1))\n\r\n                2"
+    ]
+  },
+  "pages": {
+    "key_pages": {
+      "about": "https://portal-psc.ap.gov.in/HomePages/Aboutus.aspx#menuskiper",
+      "contact": "https://portal-psc.ap.gov.in/HomePages/ContactUs.aspx#menuskiper"
+    },
+    "social": {}
+  },
+  "meta": {
+    "timestamp": "2025-12-25T13:46:32.748554",
+    "pages_crawled": [
+      "https://portal-psc.ap.gov.in/CandidateLoginPages/RecoverOTPR.aspx",
+      "https://portal-psc.ap.gov.in/Default.aspx",
+      "https://portal-psc.ap.gov.in/",
+      "https://portal-psc.ap.gov.in/HomePages/PresentCommission.aspx",
+      "https://portal-psc.ap.gov.in/HomePages/Aboutus.aspx#menuskiper",
+      "https://portal-psc.ap.gov.in/HomePages/ContactUs.aspx#menuskiper",
+      "https://portal-psc.ap.gov.in/LoginForm.aspx",
+      "https://portal-psc.ap.gov.in/HomePages/History.aspx",
+      "https://portal-psc.ap.gov.in/HomePages/Aboutus.aspx",
+      "https://portal-psc.ap.gov.in/HomePages/Notifications.aspx",
+      "https://portal-psc.ap.gov.in/HomePages/ContactUs.aspx",
+      "https://portal-psc.ap.gov.in/HomePages/Positionunderconstitution.aspx",
+      "https://portal-psc.ap.gov.in/HomePages/Regulations.aspx",
+      "https://portal-psc.ap.gov.in/#menuskiper"
+    ],
+    "errors": []
+  }
+}

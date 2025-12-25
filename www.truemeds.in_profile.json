@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "name": "Order Medicine Online",
+    "url": "https://www.truemeds.in/",
+    "tagline": null
+  },
+  "business": {
+    "description": [],
+    "offerings": []
+  },
+  "contact": {
+    "emails": [
+      "pm.support@truemeds.in09240250346v4.10.12025",
+      "grievance-officer@truemeds.inDownload"
+    ],
+    "phones": [
+      "09240250346",
+      "08046800924",
+      "51 2 3 50"
+    ]
+  },
+  "pages": {
+    "key_pages": {
+      "product": "https://www.truemeds.in/blog/category/lifestyle/product-reviews",
+      "about": "https://www.truemeds.in/about-us"
+    },
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/truemeds-india"
+    }
+  },
+  "meta": {
+    "timestamp": "2025-12-25T13:56:45.983758",
+    "pages_crawled": [
+      "https://www.truemeds.in/about-us",
+      "https://www.truemeds.in/",
+      "https://www.truemeds.in/categories/personal-care/oral-care-128",
+      "https://www.truemeds.in/all-medicine-list",
+      "https://www.truemeds.in/categories/personal-care/skin-care/skin-cream-60",
+      "https://www.truemeds.in/categories/personal-care/skin-care/sunscreen-61",
+      "https://www.truemeds.in/categories/personal-care/skin-care-125",
+      "https://www.truemeds.in/categories/personal-care/hair-care-127",
+      "https://www.truemeds.in/categories/personal-care/baby-and-mom-care-122",
+      "https://www.truemeds.in/blog/category/well-being/pregnancy-reproduction",
+      "https://www.truemeds.in/categories/personal-care/sexual-wellness-123",
+      "https://www.truemeds.in/categories/personal-care-1",
+      "https://www.truemeds.in/blog/category/lifestyle/product-reviews",
+      "https://www.truemeds.in/categories/personal-care/elderly-care-124"
+    ],
+    "errors": []
+  }
+}
